@@ -52,3 +52,11 @@ Permitir que los usuarios accedan al sistema de forma estable y segura.
 
 \- Respaldo semanal
 
+
+
+\## Operacion
+
+\- Monitoreo basico del sistema
+
+\- Revision manual de incidentes
+
