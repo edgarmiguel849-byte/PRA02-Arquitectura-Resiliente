@@ -44,3 +44,11 @@ Permitir que los usuarios accedan al sistema de forma estable y segura.
 
 \- Mejor control de recursos
 
+
+
+\## Seguridad
+
+\- Acceso con usuario y contraseña
+
+\- Respaldo semanal
+
