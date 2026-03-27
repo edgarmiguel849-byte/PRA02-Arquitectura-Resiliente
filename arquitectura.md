@@ -22,3 +22,25 @@ Este sistema en la nube está diseñado para ofrecer alta disponibilidad y organ
 
 Permitir que los usuarios accedan al sistema de forma estable y segura.
 
+
+
+\## Servicios en la nube
+
+\- Cómputo para la lógica del sistema
+
+\- Almacenamiento para archivos
+
+\- Base de datos administrada
+
+\- Monitoreo para disponibilidad
+
+
+
+\## Beneficios
+
+\- Escalabilidad
+
+\- Resiliencia
+
+\- Mejor control de recursos
+
